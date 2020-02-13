@@ -1,7 +1,11 @@
+"""
+Software: codechat
+Description: Chat & Coding In-Sync
+Developers: Giorgio Colciago
+SH: Horudev
+"""
+
 from tkinter import *
-from tkinter import messagebox
-from tkinter import ttk
-import time
 
 
 
